@@ -1,2 +1,2 @@
 # rai-inc.com.web3
-web3 contents &amp; contracts
+solidity complier 0.8.30+
