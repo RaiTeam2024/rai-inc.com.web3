@@ -1,3 +1,10 @@
+//***************************************************
+//
+//    RAI INC. web extension app & service
+//    
+//    @copyright 2025 RAI INC.
+//
+//***************************************************/
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.30;
 
