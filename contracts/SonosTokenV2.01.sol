@@ -2,6 +2,7 @@
 //
 //    RAI INC. web extension app & service
 //    
+//    Sonosonse Utility Token v 2.0.1
 //    @copyright 2025 RAI INC.
 //
 //***************************************************/
@@ -33,7 +34,7 @@ contract SonosTokenV2 is IBEP20 {
 
     /**
      * @dev Constructor to initialize the token.
-     * @param _name Token name (e.g., "Sonos Token V2.01 Adv").
+     * @param _name Token name (e.g., "Sonos Token V2.0.1 Adv").
      * @param _symbol Token symbol (e.g., "SONOSV2").
      * @param _decimals Number of decimal places (usually 18).
      * @param _initialSupply Initial total supply (without decimals; e.g., 1500000000 with scale 10 for 1.5 billion tokens).
